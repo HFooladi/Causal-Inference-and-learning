@@ -23,3 +23,18 @@ Although we are observing recent trends on reconciling causal inference with mac
 Anyways, let us talk about this reference. Dr. Neil Bramley has done a great job of exploring active causal learning in cognition. How human interact with surrounding objects and choose appropriate intervention to unveil the causal structures. He has shown that interventional and temporal cues, along with top-down hierarchical constraints, inform the gradual evolution and adaptation of increasingly rich causal representations.
 
 I recommend reading this Thesis to all the people who are interested in psychology and also reinforcement learning. 
+
+### Mini course on causality, Cambridge MIT
+This is the mini-course on causality presented by Jonas Peters. It contains more technical stuff and mathematical details. At first, I found it a little hard, but as time goes on, I was able to understand the material.
+
+It has been divided into four different parts.
+
+1. [Part 1](https://www.youtube.com/watch?v=zvrcyqcN9Wo)
+
+It begins with an introduction to causal learning. Jonas presents some examples to show that Why causality matters and why we need to consider it seriously. Because most of the problem and decision making in real life consists of intervention and for being able to predict an outcome, we should equip ourselves with the tools of causal learning. After that, he introduces structural causal model (SCM) and shows how conditional distribution differs from interventional distribution. 
+
+Then he proceeds by introducing confounder, and how we can define a valid adjustment set. In the end, he explains how the randomized controlled experiment adjust for confounder variables. 
+
+2. [Part 2](https://youtu.be/bHOGP5o3Vu0)
+
+It starts by explaining how we are identifying that two random variables, X and Y, are causally related and how the causal strentgh is measured. Then, we will become familiar with one fundamental topics, instrumental variables, which has been important tools in the economic studies. Then Jonas introduces the concept of d-separation in graphs.
