@@ -40,6 +40,7 @@ Then he proceeds by introducing confounder, and how we can define a valid adjust
 It starts by describing how we are identifying that two random variables, X and Y, are causally related, and how the causal strength is measured. Next, we will become familiar with one fundamental topic, instrumental variables, which has been important tools in economic studies. Then Jonas introduces one very important topics: counterfactuals. It is quite fundamental and widespread topic in philosophy and psychology. It is very related to imagination and retrospection. Moreover, it can be used to solve the problem of credit assignment and responsibility attribution. The goal of counterfactual is to answer a question like this: given the world we are living now, what would have happened if I had not attended to the university? This concept has significant implication in reinforcement learning, and we are observing more works. e.g., you can look at the following papers to learn more:
 
 - [Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](https://www.media.mit.edu/publications/intrinsic-social-motivation-via-causal-influence-in-multi-agent-rl/)
+
 -[Designing agent incentives to avoid side effects](https://medium.com/@deepmindsafetyresearch/designing-agent-incentives-to-avoid-side-effects-e1ac80ea6107)
 
 The summary of something we have discussed so far:
