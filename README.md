@@ -41,7 +41,7 @@ It starts by describing how we are identifying that two random variables, X and 
 
 - [Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](https://www.media.mit.edu/publications/intrinsic-social-motivation-via-causal-influence-in-multi-agent-rl/)
 
--[Designing agent incentives to avoid side effects](https://medium.com/@deepmindsafetyresearch/designing-agent-incentives-to-avoid-side-effects-e1ac80ea6107)
+- [Designing agent incentives to avoid side effects](https://medium.com/@deepmindsafetyresearch/designing-agent-incentives-to-avoid-side-effects-e1ac80ea6107)
 
 The summary of something we have discussed so far:
 - Conditional distribution is different from interventional distribution.
